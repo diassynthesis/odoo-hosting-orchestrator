@@ -29,7 +29,6 @@
     'website': 'https://github.com/YannickB',
     'description': """
     SaaS
-    =================
     """,
     'demo': [],
     'data': ['saas_view.xml'],
