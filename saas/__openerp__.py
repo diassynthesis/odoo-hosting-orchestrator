@@ -27,9 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS
-    """,
+    'description': """SaaS""",
     'demo': [],
     'data': ['saas_view.xml'],
     'installable': True,
