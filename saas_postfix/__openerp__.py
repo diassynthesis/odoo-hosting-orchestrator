@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Postfix
-    =================
-    """,
+    'description': """SaaS Postfix""",
     'demo': [],
     'data': ['saas_postfix_data.xml'],
     'installable': True,
