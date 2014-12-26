@@ -34,10 +34,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Odoo
-    =================
-    """,
+    'description': """SaaS Odoo""",
     'demo': [],
     'data': [
         'saas_odoo_data.xml'
