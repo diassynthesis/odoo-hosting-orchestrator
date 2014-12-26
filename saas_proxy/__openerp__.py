@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Proxy
-    =================
-    """,
+    'description': """SaaS Proxy""",
     'demo': [],
     'data': ['saas_proxy_data.xml'],
     'installable': True,
