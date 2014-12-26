@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Postgres
-    =================
-    """,
+    'description': """SaaS Postgres""",
     'demo': [],
     'data': ['saas_postgres_data.xml'],
     'installable': True,
