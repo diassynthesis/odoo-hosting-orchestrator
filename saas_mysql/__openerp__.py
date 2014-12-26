@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS MySQL
-    =================
-    """,
+    'description': """SaaS MySQL""",
     'demo': [],
     'data': ['saas_mysql_data.xml'],
     'installable': True,
