@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Shinken
-    =================
-    """,
+    'description': """SaaS Shinken""",
     'demo': [],
     'data': ['saas_shinken_data.xml'],
     'installable': True,
