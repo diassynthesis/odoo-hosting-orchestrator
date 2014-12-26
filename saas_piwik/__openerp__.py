@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Piwik
-    =================
-    """,
+    'description': """SaaS Piwik""",
     'demo': [],
     'data': ['saas_piwik_data.xml'],
     'installable': True,
