@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Wordpress
-    =================
-    """,
+    'description': """SaaS Wordpress""",
     'demo': [],
     'data': [
         'saas_wordpress_data.xml'
