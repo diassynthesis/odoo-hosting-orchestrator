@@ -27,10 +27,7 @@
     'author': 'Yannick Buron',
     'license': 'AGPL-3',
     'website': 'https://github.com/YannickB',
-    'description': """
-    SaaS Bind
-    =================
-    """,
+    'description': """SaaS Bind""",
     'demo': [],
     'data': ['saas_bind_data.xml'],
     'installable': True,
